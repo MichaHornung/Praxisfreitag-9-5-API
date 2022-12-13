@@ -14,6 +14,7 @@
 		BA0FCB0F2948BF310062991B /* Praxisfreitag_9_5_API.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BA0FCB0D2948BF310062991B /* Praxisfreitag_9_5_API.xcdatamodeld */; };
 		BA0FCB112948BF320062991B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA0FCB102948BF320062991B /* Assets.xcassets */; };
 		BA0FCB142948BF320062991B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA0FCB122948BF320062991B /* LaunchScreen.storyboard */; };
+		BA0FCB1E2948C4920062991B /* APIStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0FCB1D2948C4920062991B /* APIStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BA0FCB102948BF320062991B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA0FCB132948BF320062991B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA0FCB152948BF320062991B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA0FCB1D2948C4920062991B /* APIStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BA0FCB042948BF310062991B /* AppDelegate.swift */,
 				BA0FCB062948BF310062991B /* SceneDelegate.swift */,
 				BA0FCB082948BF310062991B /* ViewController.swift */,
+				BA0FCB1D2948C4920062991B /* APIStore.swift */,
 				BA0FCB0A2948BF310062991B /* Main.storyboard */,
 				BA0FCB102948BF320062991B /* Assets.xcassets */,
 				BA0FCB122948BF320062991B /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA0FCB1E2948C4920062991B /* APIStore.swift in Sources */,
 				BA0FCB0F2948BF310062991B /* Praxisfreitag_9_5_API.xcdatamodeld in Sources */,
 				BA0FCB092948BF310062991B /* ViewController.swift in Sources */,
 				BA0FCB052948BF310062991B /* AppDelegate.swift in Sources */,
